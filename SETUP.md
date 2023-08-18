@@ -54,7 +54,7 @@ The following services make use of the 1100CC Programs environment. Make sure yo
 
 To be able to use nodegoat's Network Analysis features, you have to build its service.
 
-Copy `./PROGRAMS/network_analysis` from this repository to the same path in your 1100CC directory.
+Copy `./PROGRAMS/graph_analysis` from this repository to the same path in your 1100CC directory.
 
 Libraries needed for inclusion:
 * no additional libraries needed.
