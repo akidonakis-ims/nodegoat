@@ -1,4 +1,4 @@
-INSERT INTO `cms_language` (`lang_code`, `label`, `user`, `is_default`) VALUES
+INSERT INTO `cms_language` (`lang_code`, `label`, `is_user_selectable`, `is_default`) VALUES
 ('en', 'English', 1, 1),
 ('nl', 'Nederlands', 0, 0);
 
